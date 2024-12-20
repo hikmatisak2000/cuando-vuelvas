@@ -161,9 +161,9 @@ body {
 .text {
   position: absolute;
   color: #800f2f;
-  font-size:30px;
+  font-size:17px;
   font-family: 'Pacifico', cursive;
-  line-height:1;
+  line-height:2.5;
   text-align: center;
   width:380px;
   left:10px;
@@ -173,21 +173,3 @@ body {
   transition: .2s;
 
 }
-
-.hover {
-  color: white;
-  font-family: 'Pacifico', cursive;
-  text-align: center;
-}
-
-.text:hover span {
-  display: none;
-}
-
-.text:hover:before {
-  content:"Que felicidad saber que pronto estarás aqui!! Me siento tan emocionado solo de pensar que ya te puedo volver a abrazar, pero sobre todo porque tú regresas. Sé que este tiempo ha sido especial para ti, aquí te espero con los brazos abiertos, listo para escuchar cada detalle. Gracias por compartir conmigo tu experiencia, y por siempre llevarme en tu corazón, aunque sea desde la distancia. Te quiero muchisimo, y lo unico que quiero ahora es verte y abrazarte y darte muchos besitos. Te extrañé más de lo que las palabras pueden decir...";
-  font-size:15px;
-  
-
-}
-
